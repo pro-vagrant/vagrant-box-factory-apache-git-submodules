@@ -1,12 +1,14 @@
-Vagrant Box Factory: Apache (git submodules)
-============================================
+Vagrant Box Factory
+=====================
+
+Apache (git submodules)
+=======================
 
 Underlying OS: Ubuntu 14.04 generated with https://github.com/pro-vagrant/ubuntu
 
-#1. Binary version
+##1. How to clone the repo (with submodules)?
 
-Binary version of a box is available at:
-http://boxes.gajdaw.pl/apache/
+    git clone --recursive https://github.com/pro-vagrant/vagrant-box-factory-apache-git-submodules.git
 
 #2. How to produce this box?
 
