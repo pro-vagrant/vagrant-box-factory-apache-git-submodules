@@ -1,1 +1,1 @@
-apache-submodules
+apache-git-submodules

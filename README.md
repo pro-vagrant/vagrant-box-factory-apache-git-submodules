@@ -1,5 +1,5 @@
-Vagrant Box Factory: Apache (submodules)
-========================================
+Vagrant Box Factory: Apache (git submodules)
+============================================
 
 Underlying OS: Ubuntu 14.04 generated with https://github.com/pro-vagrant/ubuntu
 
