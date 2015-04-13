@@ -1,0 +1,18 @@
+[submodule "puppet/modules/environment"]
+	path = puppet/modules/environment
+	url = https://github.com/puppet-by-examples/puppet-environment.git
+[submodule "puppet/modules/diverse_functions"]
+	path = puppet/modules/diverse_functions
+	url = https://github.com/puppet-by-examples/puppet-diverse_functions.git
+[submodule "puppet/modules/ubuntu"]
+	path = puppet/modules/ubuntu
+	url = https://github.com/puppet-by-examples/puppet-ubuntu.git
+[submodule "puppet/modules/stdlib"]
+	path = puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/modules/concat"]
+	path = puppet/modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "puppet/modules/apache"]
+	path = puppet/modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
